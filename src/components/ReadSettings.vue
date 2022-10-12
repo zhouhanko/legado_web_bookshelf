@@ -335,7 +335,7 @@ export default {
       .font-list, .infinite-loading {
         margin-top: 28px;
 
-         .font-item, .infinite-loading-item,{
+         .font-item, .infinite-loading-item {
           width: 78px;
           height: 34px;
           cursor: pointer;
